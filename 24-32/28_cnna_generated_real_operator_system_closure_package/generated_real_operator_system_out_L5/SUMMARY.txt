@@ -1,0 +1,6 @@
+CNNA generated real operator-system closure diagnostic
+max_level=5
+degrees=[1, 2, 3]
+rows=270 summaries=30
+elapsed_sec=7.962
+Primary file: RESULTS_generated_real_operator_system_closure.md

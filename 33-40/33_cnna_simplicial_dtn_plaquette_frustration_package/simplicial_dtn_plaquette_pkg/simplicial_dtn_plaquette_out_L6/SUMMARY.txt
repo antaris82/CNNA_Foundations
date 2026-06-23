@@ -1,0 +1,49 @@
+CNNA SIMPLICIAL DTN PLAQUETTE FRUSTRATION TEST
+max_level=6, mode=linear, step=0.04
+
+MODEL SUMMARIES
+  real_growth: nodes=1093, completed=364, sibling_faces=121, parent_fan_faces=363, random=80
+  symmetrized_birth: nodes=1093, completed=364, sibling_faces=121, parent_fan_faces=363, random=80
+  no_backreaction: nodes=1093, completed=364, sibling_faces=121, parent_fan_faces=363, random=80
+
+SELECTED FULL-DTN FORWARD FACE SUMMARIES
+  no_backreaction | parent_fan_triangle | aging | full: count=363, comm=0, plaq=1.33538e-16, skew=0, skew_frac=0.0000, complex_frac=0.000, first=0.00e+00
+  no_backreaction | parent_fan_triangle | handoff | full: count=363, comm=9.17998e-20, plaq=1.36639e-16, skew=6.22229e-22, skew_frac=0.0000, complex_frac=0.000, first=0.00e+00
+  no_backreaction | parent_fan_triangle | live | full: count=363, comm=0.0036013, plaq=2.88107e-06, skew=2.88106e-06, skew_frac=1.0000, complex_frac=0.997, first=0.00e+00
+  no_backreaction | random_same_level_triangle | aging | full: count=80, comm=0, plaq=1.23586e-16, skew=0, skew_frac=0.0000, complex_frac=0.000, first=0.00e+00
+  no_backreaction | random_same_level_triangle | handoff | full: count=80, comm=5.9528e-21, plaq=1.24974e-16, skew=4.76224e-24, skew_frac=0.0000, complex_frac=0.000, first=0.00e+00
+  no_backreaction | random_same_level_triangle | live | full: count=80, comm=4.58041e-06, plaq=3.6644e-09, skew=3.66437e-09, skew_frac=0.9775, complex_frac=0.037, first=0.00e+00
+  no_backreaction | sibling_triangle | aging | full: count=121, comm=0, plaq=5.4072e-17, skew=0, skew_frac=0.0000, complex_frac=0.000, first=0.00e+00
+  no_backreaction | sibling_triangle | handoff | full: count=121, comm=3.39936e-21, plaq=6.44528e-17, skew=2.71949e-24, skew_frac=0.0000, complex_frac=0.000, first=0.00e+00
+  no_backreaction | sibling_triangle | live | full: count=121, comm=4.16893e-06, plaq=3.3352e-09, skew=3.33518e-09, skew_frac=0.9997, complex_frac=0.000, first=0.00e+00
+  real_growth | parent_fan_triangle | aging | full: count=363, comm=0.000110915, plaq=8.87419e-08, skew=8.87371e-08, skew_frac=0.9999, complex_frac=1.000, first=0.00e+00
+  real_growth | parent_fan_triangle | handoff | full: count=363, comm=0.000114368, plaq=9.15049e-08, skew=9.14999e-08, skew_frac=0.9999, complex_frac=1.000, first=0.00e+00
+  real_growth | parent_fan_triangle | live | full: count=363, comm=0.00185628, plaq=1.48509e-06, skew=1.48506e-06, skew_frac=1.0000, complex_frac=1.000, first=0.00e+00
+  real_growth | random_same_level_triangle | aging | full: count=80, comm=2.30632e-06, plaq=1.84505e-09, skew=1.84505e-09, skew_frac=0.8967, complex_frac=0.000, first=0.00e+00
+  real_growth | random_same_level_triangle | handoff | full: count=80, comm=2.32724e-06, plaq=1.8618e-09, skew=1.86179e-09, skew_frac=0.9741, complex_frac=0.000, first=0.00e+00
+  real_growth | random_same_level_triangle | live | full: count=80, comm=1.97685e-05, plaq=1.58151e-08, skew=1.5815e-08, skew_frac=0.9994, complex_frac=0.375, first=0.00e+00
+  real_growth | sibling_triangle | aging | full: count=121, comm=2.61871e-07, plaq=2.09497e-10, skew=2.09497e-10, skew_frac=0.7066, complex_frac=0.000, first=0.00e+00
+  real_growth | sibling_triangle | handoff | full: count=121, comm=2.66732e-07, plaq=2.13386e-10, skew=2.13386e-10, skew_frac=0.8219, complex_frac=0.000, first=0.00e+00
+  real_growth | sibling_triangle | live | full: count=121, comm=2.95477e-06, plaq=2.36387e-09, skew=2.36385e-09, skew_frac=0.9996, complex_frac=0.000, first=0.00e+00
+  symmetrized_birth | parent_fan_triangle | aging | full: count=363, comm=4.00871e-06, plaq=3.20718e-09, skew=3.20708e-09, skew_frac=0.9978, complex_frac=0.000, first=0.00e+00
+  symmetrized_birth | parent_fan_triangle | handoff | full: count=363, comm=4.03911e-06, plaq=3.2315e-09, skew=3.2314e-09, skew_frac=0.9979, complex_frac=0.000, first=0.00e+00
+  symmetrized_birth | parent_fan_triangle | live | full: count=363, comm=7.06818e-06, plaq=5.65478e-09, skew=5.65467e-09, skew_frac=0.9992, complex_frac=0.000, first=0.00e+00
+  symmetrized_birth | random_same_level_triangle | aging | full: count=80, comm=5.01492e-09, plaq=4.012e-12, skew=4.01194e-12, skew_frac=0.4674, complex_frac=0.000, first=0.00e+00
+  symmetrized_birth | random_same_level_triangle | handoff | full: count=80, comm=5.11293e-09, plaq=4.09038e-12, skew=4.09036e-12, skew_frac=0.4796, complex_frac=0.000, first=0.00e+00
+  symmetrized_birth | random_same_level_triangle | live | full: count=80, comm=3.64405e-08, plaq=2.91524e-11, skew=2.91524e-11, skew_frac=0.7321, complex_frac=0.000, first=0.00e+00
+  symmetrized_birth | sibling_triangle | aging | full: count=121, comm=4.22534e-11, plaq=3.38338e-14, skew=3.38084e-14, skew_frac=0.0327, complex_frac=0.000, first=0.00e+00
+  symmetrized_birth | sibling_triangle | handoff | full: count=121, comm=4.39066e-11, plaq=3.51566e-14, skew=3.51326e-14, skew_frac=0.0339, complex_frac=0.000, first=0.00e+00
+  symmetrized_birth | sibling_triangle | live | full: count=121, comm=2.33912e-10, plaq=1.87134e-13, skew=1.87129e-13, skew_frac=0.1575, complex_frac=0.000, first=0.00e+00
+
+DIAGONAL AND TRACE-SCALAR CONTROLS, REAL GROWTH / LIVE
+  real_growth | parent_fan_triangle | live | diagonal: count=363, comm=0, plaq=1.72493e-16, skew=0, skew_frac=0.0000, complex_frac=0.000, first=0.00e+00
+  real_growth | parent_fan_triangle | live | trace_scalar: count=363, comm=0, plaq=1.45149e-16, skew=0, skew_frac=0.0000, complex_frac=0.000, first=0.00e+00
+  real_growth | random_same_level_triangle | live | diagonal: count=80, comm=0, plaq=1.61038e-16, skew=0, skew_frac=0.0000, complex_frac=0.000, first=0.00e+00
+  real_growth | random_same_level_triangle | live | trace_scalar: count=80, comm=0, plaq=1.1057e-16, skew=0, skew_frac=0.0000, complex_frac=0.000, first=0.00e+00
+  real_growth | sibling_triangle | live | diagonal: count=121, comm=0, plaq=1.72061e-16, skew=0, skew_frac=0.0000, complex_frac=0.000, first=0.00e+00
+  real_growth | sibling_triangle | live | trace_scalar: count=121, comm=0, plaq=1.19192e-16, skew=0, skew_frac=0.0000, complex_frac=0.000, first=0.00e+00
+
+INTERPRETATION GUARDRAILS
+  first_order_closure_norm should be numerical zero by construction: A_ab+A_bc+A_ca telescopes.
+  nonzero commutator/skew/complex-pair diagnostics are therefore second-order operatorial plaquette effects, not height-gradient circulation.
+  positive plaquette frustration is not a J proof; it is the missing face-level carrier needed before any J extraction.

@@ -1,0 +1,3 @@
+best_C_candidate_id,best_C_delta_beta2_audit_only,best_C_lock_mean,beta2_opening_candidate_count_audit_only,cascade_index,chosen_C_lock_max,chosen_C_lock_mean,chosen_candidate_id,chosen_delta_beta2_audit_only,chosen_face_a,chosen_face_b,event_t,legal_candidate_count,phase_sign,rule,scan_id,variant
+32,2,0.1544549595997748,6,1,0.18117912915544102,0.18117912915543988,34,1,4 5 6,0 1 2,6,6,-1,A_rank_rule,0,no_backreaction
+46,1,0.15564814123085577,3,2,0.1990510606651949,0.1990510606651888,44,1,2 4 5,0 1 3,6,3,-1,A_rank_rule,1,no_backreaction

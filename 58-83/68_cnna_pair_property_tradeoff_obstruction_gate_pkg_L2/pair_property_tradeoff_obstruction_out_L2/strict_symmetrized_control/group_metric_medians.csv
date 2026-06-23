@@ -1,0 +1,10 @@
+C_lock_max_worst_mean,C_lock_max_worst_median,QP_balance_min_mean,QP_balance_min_median,beta_delta_min_mean,beta_delta_min_median,comm_abs_area_avg_mean,comm_abs_area_avg_median,count,directed_imbalance_avg_mean,directed_imbalance_avg_median,group,signed_amplitude_min_mean,signed_amplitude_min_median,signed_flip_abs_mean,signed_flip_abs_median,transport_cosine_avg_mean,transport_cosine_avg_median,transverse_complementarity_avg_mean,transverse_complementarity_avg_median,variant
+nan,nan,nan,nan,nan,nan,nan,nan,0,nan,nan,all_A_gated,nan,nan,nan,nan,nan,nan,nan,nan,strict_symmetrized_control
+nan,nan,nan,nan,nan,nan,nan,nan,0,nan,nan,beta2_open,nan,nan,nan,nan,nan,nan,nan,nan,strict_symmetrized_control
+nan,nan,nan,nan,nan,nan,nan,nan,0,nan,nan,C_lock,nan,nan,nan,nan,nan,nan,nan,nan,strict_symmetrized_control
+nan,nan,nan,nan,nan,nan,nan,nan,0,nan,nan,kappa_flip,nan,nan,nan,nan,nan,nan,nan,nan,strict_symmetrized_control
+nan,nan,nan,nan,nan,nan,nan,nan,0,nan,nan,QP_support,nan,nan,nan,nan,nan,nan,nan,nan,strict_symmetrized_control
+nan,nan,nan,nan,nan,nan,nan,nan,0,nan,nan,beta2_and_C,nan,nan,nan,nan,nan,nan,nan,nan,strict_symmetrized_control
+nan,nan,nan,nan,nan,nan,nan,nan,0,nan,nan,beta2_and_flip,nan,nan,nan,nan,nan,nan,nan,nan,strict_symmetrized_control
+nan,nan,nan,nan,nan,nan,nan,nan,0,nan,nan,C_and_flip,nan,nan,nan,nan,nan,nan,nan,nan,strict_symmetrized_control
+nan,nan,nan,nan,nan,nan,nan,nan,0,nan,nan,all_four,nan,nan,nan,nan,nan,nan,nan,nan,strict_symmetrized_control

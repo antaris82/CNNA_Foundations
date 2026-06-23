@@ -1,0 +1,4 @@
+A_QP_balance,A_applied,A_delta_beta2_audit_only,A_face_a,A_face_b,A_measured_delta_beta2,A_proxy_score,B_C_lock,B_applied,B_attempted,B_delta_beta2_audit_only,B_face_a,B_face_b,B_kappa_flip_abs,B_measured_delta_beta2,B_proxy_score,after_A_beta2,after_beta0,after_beta1,after_beta2,after_beta3,assembly_applied,cascade_index,context,decision_used_delta_beta,edge_overlap,event_t,face_overlap,failure,reason,scan_id,variant,vertex_overlap
+0.9785449268971228,True,2,3 4 5,0 1 2,2,1.6624142958911665,0.3652665636581287,True,True,1,1 4 6,0 2 3,0.999999999999308,1,-1.7094386780641262,,1,0,3,0,True,1,shared_edge,False,1,6,0,,,0,real_growth,5
+,True,,0 3 6,2 4 5,1,,,,False,,,,,,,4,,,,,False,3,,,,6,,no_B_candidate,,1,real_growth,
+,,,,,,,,,False,,,,,,,,,,,,False,1,,,,7,,,max_pair_count_after_A,2,real_growth,

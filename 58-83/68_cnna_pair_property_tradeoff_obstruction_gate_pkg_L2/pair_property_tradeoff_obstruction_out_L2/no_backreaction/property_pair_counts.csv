@@ -1,0 +1,12 @@
+P_a_given_b,P_b_given_a,count_a,count_b,count_both,count_union,jaccard,property_a,property_b,variant
+0.4,0.05555555555555555,108,15,6,117,0.05128205128205128,beta2_open,C_lock,no_backreaction
+0.2857142857142857,0.07407407407407407,108,28,8,128,0.0625,beta2_open,kappa_flip,no_backreaction
+0.4577777777777778,0.9537037037037037,108,225,103,230,0.44782608695652176,beta2_open,QP_support,no_backreaction
+0.07142857142857142,0.13333333333333333,15,28,2,41,0.04878048780487805,C_lock,kappa_flip,no_backreaction
+0.06666666666666667,1.0,15,225,15,225,0.06666666666666667,C_lock,QP_support,no_backreaction
+0.12444444444444444,1.0,28,225,28,225,0.12444444444444444,kappa_flip,QP_support,no_backreaction
+,,0,,0,0,,beta2+C_lock+kappa_flip,,no_backreaction
+,,6,,6,6,,beta2+C_lock+QP,,no_backreaction
+,,8,,8,8,,beta2+kappa_flip+QP,,no_backreaction
+,,2,,2,2,,C_lock+kappa_flip+QP,,no_backreaction
+,,0,,0,0,,all_four,,no_backreaction

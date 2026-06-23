@@ -1,0 +1,12 @@
+{
+  "elapsed_seconds": 20.04934024810791,
+  "rows": 6,
+  "summaries": 4,
+  "levels": [
+    4
+  ],
+  "tiers": [
+    "base_patch"
+  ],
+  "patch_size": 3
+}

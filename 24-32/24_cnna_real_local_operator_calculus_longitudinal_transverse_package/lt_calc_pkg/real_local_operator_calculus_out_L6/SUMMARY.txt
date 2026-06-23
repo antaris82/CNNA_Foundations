@@ -1,0 +1,6 @@
+CNNA real local operator calculus diagnostic
+max_level=6
+mode=linear
+rows=39204 summaries=207
+elapsed_sec=5.102
+Primary file: RESULTS_real_local_operator_calculus.md

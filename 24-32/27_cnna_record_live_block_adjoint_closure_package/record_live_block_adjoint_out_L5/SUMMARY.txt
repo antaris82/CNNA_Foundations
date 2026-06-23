@@ -1,0 +1,6 @@
+CNNA record/live block adjoint closure diagnostic
+max_level=5
+mode=linear
+rows=3240 summaries=12
+elapsed_sec=14.376
+Primary file: RESULTS_record_live_block_adjoint_closure.md

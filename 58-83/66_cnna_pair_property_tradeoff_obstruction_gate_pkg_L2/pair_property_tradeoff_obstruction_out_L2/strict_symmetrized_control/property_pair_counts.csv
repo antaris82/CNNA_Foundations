@@ -1,0 +1,12 @@
+P_a_given_b,P_b_given_a,count_a,count_b,count_both,count_union,jaccard,property_a,property_b,variant
+0.0,0.0,0,0,0,0,0.0,beta2_open,C_lock,strict_symmetrized_control
+0.0,0.0,0,0,0,0,0.0,beta2_open,kappa_flip,strict_symmetrized_control
+0.0,0.0,0,0,0,0,0.0,beta2_open,QP_support,strict_symmetrized_control
+0.0,0.0,0,0,0,0,0.0,C_lock,kappa_flip,strict_symmetrized_control
+0.0,0.0,0,0,0,0,0.0,C_lock,QP_support,strict_symmetrized_control
+0.0,0.0,0,0,0,0,0.0,kappa_flip,QP_support,strict_symmetrized_control
+,,0,,0,0,,beta2+C_lock+kappa_flip,,strict_symmetrized_control
+,,0,,0,0,,beta2+C_lock+QP,,strict_symmetrized_control
+,,0,,0,0,,beta2+kappa_flip+QP,,strict_symmetrized_control
+,,0,,0,0,,C_lock+kappa_flip+QP,,strict_symmetrized_control
+,,0,,0,0,,all_four,,strict_symmetrized_control

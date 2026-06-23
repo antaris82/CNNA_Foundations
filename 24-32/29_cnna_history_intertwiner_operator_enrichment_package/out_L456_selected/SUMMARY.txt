@@ -1,0 +1,15 @@
+{
+  "elapsed_seconds": 24.423226833343506,
+  "rows": 27,
+  "summaries": 30,
+  "levels": [
+    4,
+    5,
+    6
+  ],
+  "tiers": [
+    "base",
+    "completion_live",
+    "all_enriched"
+  ]
+}

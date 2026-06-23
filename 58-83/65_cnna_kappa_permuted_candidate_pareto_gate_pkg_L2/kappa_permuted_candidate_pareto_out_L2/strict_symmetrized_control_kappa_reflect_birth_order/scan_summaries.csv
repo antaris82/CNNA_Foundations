@@ -1,0 +1,8 @@
+best_C_lock_mean,best_candidate_id,best_delta_beta2_audit_only,best_pair_key,candidate_count_beta2_and_C_lock,candidate_count_beta2_opening_audit_only,candidate_count_ok,event_t,kappa_mode,scan_id,selected_A_candidate_id,selected_A_pair_key,tet_count,variant
+,,,,0,0,0,6,kappa_reflect_birth_order,0,,,4,strict_symmetrized_control
+,,,,0,0,0,7,kappa_reflect_birth_order,1,,,5,strict_symmetrized_control
+,,,,0,0,0,8,kappa_reflect_birth_order,2,,,6,strict_symmetrized_control
+,,,,0,0,0,9,kappa_reflect_birth_order,3,,,7,strict_symmetrized_control
+,,,,0,0,0,10,kappa_reflect_birth_order,4,,,8,strict_symmetrized_control
+,,,,0,0,0,11,kappa_reflect_birth_order,5,,,9,strict_symmetrized_control
+,,,,0,0,0,12,kappa_reflect_birth_order,6,,,10,strict_symmetrized_control

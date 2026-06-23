@@ -1,0 +1,12 @@
+P_a_given_b,P_b_given_a,count_a,count_b,count_both,count_union,jaccard,property_a,property_b,variant
+0.5263157894736842,0.11363636363636363,88,19,10,97,0.10309278350515463,beta2_open,C_lock,real_growth
+0.30434782608695654,0.07954545454545454,88,23,7,104,0.0673076923076923,beta2_open,kappa_flip,real_growth
+0.41025641025641024,0.9090909090909091,88,195,80,203,0.39408866995073893,beta2_open,QP_support,real_growth
+0.13043478260869565,0.15789473684210525,19,23,3,39,0.07692307692307693,C_lock,kappa_flip,real_growth
+0.07179487179487179,0.7368421052631579,19,195,14,200,0.07,C_lock,QP_support,real_growth
+0.11794871794871795,1.0,23,195,23,195,0.11794871794871795,kappa_flip,QP_support,real_growth
+,,0,,0,0,,beta2+C_lock+kappa_flip,,real_growth
+,,6,,6,6,,beta2+C_lock+QP,,real_growth
+,,7,,7,7,,beta2+kappa_flip+QP,,real_growth
+,,3,,3,3,,C_lock+kappa_flip+QP,,real_growth
+,,0,,0,0,,all_four,,real_growth

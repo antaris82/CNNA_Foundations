@@ -1,0 +1,17 @@
+{
+  "variant": "strict_symmetrized_control",
+  "candidate_count": 0,
+  "scan_count": 0,
+  "role_A_beta_QP_count": 0,
+  "role_B_C_kappa_count": 0,
+  "role_A_and_role_B_same_single_pair_count": 0,
+  "dual_pair_assemblies_total_same_scan": 0,
+  "dual_pair_assemblies_connected_context": 0,
+  "dual_pair_assemblies_strong_context": 0,
+  "assembly_context_counts": {},
+  "partial_connected_assemblies_count": 0,
+  "best_assembly": null,
+  "best_connected_assembly": null,
+  "best_strong_context_assembly": null,
+  "decision_used_delta_beta_any": false
+}

@@ -1,0 +1,22 @@
+{
+  "elapsed_seconds": 26.06450128555298,
+  "activity_rows": 364,
+  "last_growth_delta_rows": 364,
+  "patch_rows": 18,
+  "patch_summaries": 24,
+  "primary_patch_rows": 6,
+  "activity_level": 6,
+  "levels": [
+    4,
+    5,
+    6
+  ],
+  "patch_sizes": [
+    2,
+    3
+  ],
+  "degree": 2,
+  "cases": [
+    "real_growth"
+  ]
+}
