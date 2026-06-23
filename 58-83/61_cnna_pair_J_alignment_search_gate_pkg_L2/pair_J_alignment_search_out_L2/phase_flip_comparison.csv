@@ -1,4 +1,0 @@
-best_candidate_minus,best_candidate_plus,best_mean_minus,best_mean_plus,best_pair_mean_minus,best_pair_mean_plus,comm_signed_birth_flip_score_zero_if_perfect_flip,comm_signed_birth_minus,comm_signed_birth_plus,variant
-unit_C_eigen_raw_even_odd,unit_C_eigen_transported_even_odd,0.19011509491031434,0.20348269744373307,0.19011509491031434,0.20348269744373307,0.9999999999933917,0.11504363345988163,0.036283527323637814,no_backreaction
-unit_C_eigen_transported_even_odd,unit_C_eigen_transported_even_odd,0.22997592032647993,0.3754141960073648,0.22997592032647993,0.3754141960073648,0.9999999999945194,0.15192848701512826,0.03053228041943122,real_growth
-,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,strict_symmetrized_control

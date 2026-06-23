@@ -1,3 +1,0 @@
-best_all_C_eigen_lock_mean,best_all_candidate_id,best_all_delta_beta2,best_beta2_C_eigen_lock_max,best_beta2_C_eigen_lock_mean,best_beta2_candidate_id,best_beta2_comm_signed_birth_over_abs,best_beta2_transport_cosine,beta2_and_C_eigen_lock_count,beta2_opening_candidate_count,candidate_count_evaluated,cascade_index,event_t,pair_count_before,phase_sign,scan_id,selected_candidate_id,selected_face_a,selected_face_b,variant
-0.1544549595997748,32,2,0.1544549595997853,0.1544549595997748,32,-0.26074189653167273,0.30604077452731443,2,6,10,1,6,0,-1,0,34,4 5 6,0 1 2,no_backreaction
-0.15564814123085577,46,1,0.15564814123088827,0.15564814123085577,46,0.2755042733131513,0.7071732727705734,2,3,3,2,6,1,-1,1,44,2 4 5,0 1 3,no_backreaction

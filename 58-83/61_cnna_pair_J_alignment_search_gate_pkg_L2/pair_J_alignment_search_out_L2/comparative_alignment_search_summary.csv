@@ -1,7 +1,0 @@
-P_odd_harmonic_ratio,QP_comm_harmonic_ratio,Q_even_harmonic_ratio,best_global_J_lock_max_resid,best_global_J_lock_mean_resid,best_global_candidate,best_per_pair_max_J_lock_resid,best_per_pair_mean_J_lock_resid,beta0,beta1,beta2,beta3,comm_signed_birth_over_abs_sum_ratio,decision_used_delta_beta_any,pairings,phase_sign,variant,variant_phase
-0.2223622980580523,0.2472042067379052,0.22973062009687342,0.37541419600737946,0.3754141960073648,unit_C_eigen_transported_even_odd,0.4620421301989585,0.3754141960073648,1,0,2,0,0.03053228041943122,False,2,1,real_growth,real_growth_phaseplus1
-0.20766140482798737,0.2526559600975899,0.20604970825653332,0.22997592032649444,0.22997592032647993,unit_C_eigen_transported_even_odd,0.24701125197646565,0.22997592032647993,1,0,2,0,0.15192848701512826,False,2,-1,real_growth,real_growth_phaseminus1
-0.0,0.0,0.0,0.0,0.0,,0.0,0.0,1,0,0,0,0.0,False,0,1,strict_symmetrized_control,strict_symmetrized_control_phaseplus1
-0.0,0.0,0.0,0.0,0.0,,0.0,0.0,1,0,0,0,0.0,False,0,-1,strict_symmetrized_control,strict_symmetrized_control_phaseminus1
-0.22032942395418834,0.24643403909886138,0.2237951961247543,0.2034826974437393,0.20348269744373307,unit_C_eigen_transported_even_odd,0.23821076322219464,0.20348269744373307,1,0,2,0,0.036283527323637814,False,2,1,no_backreaction,no_backreaction_phaseplus1
-0.20550503711739804,0.252024514650313,0.20395169765228607,0.19011509491031797,0.19011509491031434,unit_C_eigen_raw_even_odd,0.1990510606651949,0.19011509491031434,1,0,2,0,0.11504363345988163,False,2,-1,no_backreaction,no_backreaction_phaseminus1

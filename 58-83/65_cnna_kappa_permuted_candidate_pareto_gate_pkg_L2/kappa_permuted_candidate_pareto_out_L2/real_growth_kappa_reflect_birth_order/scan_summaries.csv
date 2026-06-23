@@ -1,8 +1,0 @@
-best_C_lock_mean,best_candidate_id,best_delta_beta2_audit_only,best_pair_key,candidate_count_beta2_and_C_lock,candidate_count_beta2_opening_audit_only,candidate_count_ok,event_t,kappa_mode,scan_id,selected_A_candidate_id,selected_A_pair_key,tet_count,variant
-0.13354409674112871,41,0,quotient_candidate|0 2 3|1 5 6,0,2,6,6,kappa_reflect_birth_order,0,34,handle_candidate|0 1 2|4 5 6,4,real_growth
-0.11916483774289778,65,0,quotient_candidate|1 5 6|2 3 7,1,5,8,7,kappa_reflect_birth_order,1,48,handle_candidate|0 1 2|3 4 7,5,real_growth
-0.0781268220290985,99,0,quotient_candidate|1 5 6|2 3 8,1,8,18,8,kappa_reflect_birth_order,2,70,handle_candidate|0 1 2|3 4 7,6,real_growth
-0.06872266913840737,130,1,handle_candidate|2 8 9|3 4 5,2,10,27,9,kappa_reflect_birth_order,3,96,handle_candidate|0 1 2|3 4 7,7,real_growth
-0.023812682591998487,156,1,handle_candidate|2 8 9|3 7 10,5,18,38,10,kappa_reflect_birth_order,4,130,handle_candidate|0 2 3|7 8 10,8,real_growth
-0.019940841615441705,294,1,handle_candidate|2 8 9|3 10 11,7,24,52,11,kappa_reflect_birth_order,5,166,handle_candidate|0 1 2|3 8 11,9,real_growth
-0.023812682591998487,234,1,handle_candidate|2 8 9|3 7 10,9,27,60,12,kappa_reflect_birth_order,6,182,handle_candidate|0 1 2|3 8 11,10,real_growth

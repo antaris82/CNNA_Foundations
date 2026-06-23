@@ -1,4 +1,0 @@
-candidate_count,decision_used_delta_beta_any,dual_pair_assemblies_connected_context,dual_pair_assemblies_strong_context,dual_pair_assemblies_total_same_scan,partial_connected_assemblies_count,role_A_and_role_B_same_single_pair_count,role_A_beta_QP_count,role_B_C_kappa_count,scan_count,variant
-206,False,38,26,38,626,0,80,3,7,real_growth
-0,False,0,0,0,0,0,0,0,0,strict_symmetrized_control
-236,False,22,16,22,819,0,103,2,7,no_backreaction

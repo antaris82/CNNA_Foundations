@@ -1,8 +1,0 @@
-best_C_candidate_id,best_C_delta_beta2_audit_only,best_C_lock_mean,beta2_opening_candidate_count_audit_only,cascade_index,chosen_C_lock_max,chosen_C_lock_mean,chosen_candidate_id,chosen_delta_beta2_audit_only,chosen_face_a,chosen_face_b,event_t,legal_candidate_count,phase_sign,rule,scan_id,variant
-,,,0,1,,,,,,,6,0,-1,C_eigen_guided_rule,0,strict_symmetrized_control
-,,,0,1,,,,,,,7,0,-1,C_eigen_guided_rule,1,strict_symmetrized_control
-,,,0,1,,,,,,,8,0,-1,C_eigen_guided_rule,2,strict_symmetrized_control
-,,,0,1,,,,,,,9,0,-1,C_eigen_guided_rule,3,strict_symmetrized_control
-,,,0,1,,,,,,,10,0,-1,C_eigen_guided_rule,4,strict_symmetrized_control
-,,,0,1,,,,,,,11,0,-1,C_eigen_guided_rule,5,strict_symmetrized_control
-,,,0,1,,,,,,,12,0,-1,C_eigen_guided_rule,6,strict_symmetrized_control

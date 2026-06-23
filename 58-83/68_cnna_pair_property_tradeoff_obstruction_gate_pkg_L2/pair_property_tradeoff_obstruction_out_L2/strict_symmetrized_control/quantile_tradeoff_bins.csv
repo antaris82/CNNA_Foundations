@@ -1,9 +1,0 @@
-C_lock_count,QP_count,beta2_count,bin,bin_type,count,kappa_flip_count,median_C_lock,median_beta_delta_min,median_directed_imbalance,median_flip_abs,median_transverse_complementarity,variant
-0,0,0,excellent<=0.2,flip_bin,0,0,nan,nan,nan,nan,nan,strict_symmetrized_control
-0,0,0,good<=0.4,flip_bin,0,0,nan,nan,nan,nan,nan,strict_symmetrized_control
-0,0,0,weak<=0.7,flip_bin,0,0,nan,nan,nan,nan,nan,strict_symmetrized_control
-0,0,0,bad>0.7,flip_bin,0,0,nan,nan,nan,nan,nan,strict_symmetrized_control
-0,0,0,excellent<=0.2,C_bin,0,0,nan,nan,nan,nan,nan,strict_symmetrized_control
-0,0,0,good<=0.4,C_bin,0,0,nan,nan,nan,nan,nan,strict_symmetrized_control
-0,0,0,weak<=0.7,C_bin,0,0,nan,nan,nan,nan,nan,strict_symmetrized_control
-0,0,0,bad>0.7,C_bin,0,0,nan,nan,nan,nan,nan,strict_symmetrized_control
