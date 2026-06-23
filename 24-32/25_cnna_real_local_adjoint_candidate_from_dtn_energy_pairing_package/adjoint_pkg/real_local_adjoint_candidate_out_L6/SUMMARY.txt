@@ -1,6 +1,0 @@
-CNNA real local adjoint candidate diagnostic
-max_level=6
-mode=linear
-rows=29403 summaries=30
-elapsed_sec=13.624
-Primary file: RESULTS_real_local_adjoint_candidate.md

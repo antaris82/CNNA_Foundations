@@ -1,6 +1,0 @@
-CNNA port-resolved rank-one adjoint closure diagnostic
-max_level=6
-mode=linear
-rows=19602 summaries=21
-elapsed_sec=12.055
-Primary file: RESULTS_port_resolved_rank_one_adjoint_closure.md
